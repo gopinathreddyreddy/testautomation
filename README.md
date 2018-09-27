@@ -1,3 +1,3 @@
 # test automation script : 
 
-Generate test case from the log file and scripts web service tests automatically runs with expected results.:) 
+Generate test case from the log file and the scripts will webservice tests run automatically with expected results.:) 
